@@ -39,7 +39,7 @@ This is my pursuit of truth in a world full of simulations.
 
 ## 🌌 My GitHub Stats: A Glimpse into the System
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrElliot2049&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
