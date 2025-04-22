@@ -46,15 +46,8 @@ This is my pursuit of truth in a world full of simulations.
 ## 🌍 Let's Connect – The City of Tomorrow
 
 - 📫 **Email**: [adamya1332004@gmail.com](mailto:adamya1332004@gmail.com)
-- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🌐 **LinkedIn**: [Adamya Chauhan](https://www.linkedin.com/in/adamya-chauhan-b72b25291/)
 - 💬 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
-
-## 🌒 Blade Runner Quote of the Day
-
-*“All those moments will be lost in time, like tears in rain.”*  
-Just like the truth, these fleeting moments are meant to be preserved.
 
 ---
 
@@ -62,7 +55,7 @@ Just like the truth, these fleeting moments are meant to be preserved.
 
 Add futuristic and gritty images here to bring the Blade Runner 2049 aesthetic to life. Think dark, neon-lit visuals and atmospheric cityscapes.
 
-1. ![Blade Runner Cityscape](https://image-link.com)  
+1. ![Blade Runner Cityscape](https://i.redd.it/l01gne5jhvp41.jpg)  
    *A neon-lit city, full of secrets and untold stories.*
 
 2. ![Replicant Eyes](https://image-link.com)  
